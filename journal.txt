@@ -1,10 +1,18 @@
 Date: April 05, 2022
-Title: Camshaft Position Sensor (CPS) Changed
+Title: Crankshaft Position Sensor (CPS) Changed
 
 The CPS has been changed in the car. Old CPS seem to be without of
 physical defect aside from oil coverage. Car engine still not turning over.
 May be gap between sensor and fly wheel (?) is too wide, but uncertain.
 
 Additionally, broke alternator bolt. Need to find replacement.
+
+
+Date: April 09, 2022
+Title: Camshaft Pos Sensor and Fuel Relay Pump Changed
+
+The camshaft position sensor and fuel relay pump has been changed.
+Crankshaft position sensor also changed because mechanic stated it 
+was "defective". Engine still doesn't turn over.
 
 

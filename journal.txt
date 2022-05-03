@@ -15,4 +15,7 @@ The camshaft position sensor and fuel relay pump has been changed.
 Crankshaft position sensor also changed because mechanic stated it 
 was "defective". Engine still doesn't turn over.
 
+Date: May 03, 2022
+Title: Mr. Mazda Inspection
 
+Car was towed to Mr. Mazda, a Mazda specialist, to inspect car's potential problem. Invoice added as, "mr-mazda-invoice.PDF".

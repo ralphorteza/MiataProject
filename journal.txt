@@ -19,3 +19,10 @@ Date: May 03, 2022
 Title: Mr. Mazda Inspection
 
 Car was towed to Mr. Mazda, a Mazda specialist, to inspect car's potential problem. Invoice added as, "mr-mazda-invoice.PDF".
+
+
+Date: May 05, 2022
+Title: Mr. Mazda to Capitol Mazda
+
+Mr. Mazda reccomends dealership to diagnose possible immobilizer problem. Car towed to Capitol Mazda and continue diagnostics.
+Invoices created for both Mr. Mazda and Capitol Mazda.
